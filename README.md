@@ -43,7 +43,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Дашборд](https://github.com/DubininDenis/it-monitoring/main/dashboard.png)
+![Дашборд](https://github.com/DubininDenis/it-monitoring/blob/main/dashboard.png)
 
 ---
 
